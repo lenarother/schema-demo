@@ -1,0 +1,26 @@
+.DS_Store
+.project
+.ropeproject
+.idea
+
+# Python / Django
+pip-log.txt
+*.py[co]
+__pycache__
+.cache
+.pytest_cache
+*.so
+*.egg-info
+htmlcov/
+.coverage
+coverage.xml
+*.mo
+src/dominion/settings.py
+web/
+
+# DB
+db.sqlite3
+
+# project
+resources/exports
+resources/wiki
